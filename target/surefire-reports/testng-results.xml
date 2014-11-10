@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.ud.testclasses.UdTest" duration-ms="35" started-at="2014-11-10T08:27:10Z" finished-at="2014-11-10T08:27:10Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="35" started-at="2014-11-10T08:27:10Z" finished-at="2014-11-10T08:27:10Z">
+      <class name="com.ud.testclasses.UdTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.ud.testclasses.UdTest@2fcac6db]" name="test" duration-ms="13" started-at="2014-11-10T13:57:10Z" finished-at="2014-11-10T13:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.ud.testclasses.UdTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.ud.testclasses.UdTest -->
+</testng-results>
